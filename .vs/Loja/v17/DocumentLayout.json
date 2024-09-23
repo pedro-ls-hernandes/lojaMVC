@@ -1,0 +1,591 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Downloads\\Loja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\categorias\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\compras\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\compras\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\enderecoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\enderecoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\clientes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\compras\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\compras\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\enderecoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\enderecoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\categorias\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\compras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\compras\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\enderecoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\enderecoes\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\categorias\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\produtos\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\views\\produtos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\views\\produtos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\controllers\\enderecoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\controllers\\enderecoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\users\\usuario\\downloads\\loja\\loja\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD7CA5B-67FC-4D9C-B3DB-1DCCF2C3688C}|..\\..\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\SiteMVC.csproj|c:\\users\\usuario\\documents\\github\\asp.net-mvc-site\\sitemvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD7CA5B-67FC-4D9C-B3DB-1DCCF2C3688C}|..\\..\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\SiteMVC.csproj|c:\\users\\usuario\\documents\\github\\asp.net-mvc-site\\sitemvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD7CA5B-67FC-4D9C-B3DB-1DCCF2C3688C}|..\\..\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\SiteMVC.csproj|c:\\users\\usuario\\documents\\github\\asp.net-mvc-site\\sitemvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD7CA5B-67FC-4D9C-B3DB-1DCCF2C3688C}|..\\..\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\SiteMVC.csproj|c:\\users\\usuario\\documents\\github\\asp.net-mvc-site\\sitemvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD7CA5B-67FC-4D9C-B3DB-1DCCF2C3688C}|..\\..\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\SiteMVC.csproj|c:\\users\\usuario\\documents\\github\\asp.net-mvc-site\\sitemvc\\models\\homemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Produtos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Produtos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Produtos\\Index.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Produtos\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T19:13:14.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T19:04:10.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Loja\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Models\\Produto.cs",
+              "RelativeToolTip": "Loja\\Models\\Produto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:25:10.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Enderecoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Enderecoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Enderecoes\\Index.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Enderecoes\\Index.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAC8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T21:23:02.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Compras\\Index.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Compras\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Compras\\Index.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Compras\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T21:22:51.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Clientes\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T21:22:37.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Categorias\\Index.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Categorias\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Categorias\\Index.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Categorias\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T19:08:38.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Clientes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Clientes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Clientes\\Edit.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Clientes\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T21:28:00.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Compras\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Compras\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Compras\\Edit.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Compras\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T21:27:55.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T19:01:32.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Produtos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Produtos\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Produtos\\Edit.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Produtos\\Edit.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T19:20:26.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T23:17:29.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T23:17:43.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Enderecoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Enderecoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Enderecoes\\Create.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Enderecoes\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAACoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T21:25:41.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Clientes\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T21:27:20.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Categorias\\Create.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Categorias\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Categorias\\Create.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Categorias\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T21:27:27.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "Loja\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "Loja\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-23T21:19:08.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Loja\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Loja\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T21:36:23.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Categorias\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Categorias\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Categorias\\Edit.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Categorias\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T21:28:08.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Enderecoes\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Enderecoes\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Enderecoes\\Edit.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Enderecoes\\Edit.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T21:27:50.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Produtos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Produtos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Produtos\\Create.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Produtos\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T19:11:17.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Compras\\Create.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Compras\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Compras\\Create.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Compras\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T21:27:13.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Produtos\\Details.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Produtos\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Produtos\\Details.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Produtos\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T19:20:17.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "Loja\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "Loja\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAiwFUAAAB9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:05:48.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Produtos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Loja\\Views\\Produtos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Views\\Produtos\\Delete.cshtml",
+              "RelativeToolTip": "Loja\\Views\\Produtos\\Delete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T19:27:26.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Loja\\Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Loja\\Controllers\\ClientesController.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:06:09.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EnderecoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Controllers\\EnderecoesController.cs",
+              "RelativeDocumentMoniker": "Loja\\Controllers\\EnderecoesController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Controllers\\EnderecoesController.cs",
+              "RelativeToolTip": "Loja\\Controllers\\EnderecoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:05:41.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ComprasController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Controllers\\ComprasController.cs",
+              "RelativeDocumentMoniker": "Loja\\Controllers\\ComprasController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Controllers\\ComprasController.cs",
+              "RelativeToolTip": "Loja\\Controllers\\ComprasController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:05:34.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Models\\Endereco.cs",
+              "RelativeDocumentMoniker": "Loja\\Models\\Endereco.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Downloads\\Loja\\Loja\\Models\\Endereco.cs",
+              "RelativeToolTip": "Loja\\Models\\Endereco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T19:04:36.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HomeModel.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Models\\HomeModel.cs",
+              "RelativeDocumentMoniker": "..\\..\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Models\\HomeModel.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Models\\HomeModel.cs",
+              "RelativeToolTip": "..\\..\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Models\\HomeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T02:09:19.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "..\\..\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T02:07:16.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "..\\..\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T02:05:30.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\..\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-23T02:00:01.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\..\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\..\\Documents\\GitHub\\asp.net-mvc-site\\SiteMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-23T01:53:27.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

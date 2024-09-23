@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Loja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\loja\\loja\\controllers\\enderecoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\controllers\\enderecoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\loja\\loja\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\controllers\\comprascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\loja\\loja\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|c:\\loja\\loja\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B6F09D7-8D8B-4F5A-93E6-E65135D9FA22}|Loja\\Loja.csproj|solutionrelative:loja\\controllers\\categoriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EnderecoesController.cs",
+              "DocumentMoniker": "C:\\Loja\\Loja\\Controllers\\EnderecoesController.cs",
+              "RelativeDocumentMoniker": "Loja\\Controllers\\EnderecoesController.cs",
+              "ToolTip": "C:\\Loja\\Loja\\Controllers\\EnderecoesController.cs",
+              "RelativeToolTip": "Loja\\Controllers\\EnderecoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:11:16.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComprasController.cs",
+              "DocumentMoniker": "C:\\Loja\\Loja\\Controllers\\ComprasController.cs",
+              "RelativeDocumentMoniker": "Loja\\Controllers\\ComprasController.cs",
+              "ToolTip": "C:\\Loja\\Loja\\Controllers\\ComprasController.cs",
+              "RelativeToolTip": "Loja\\Controllers\\ComprasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:10:13.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Loja\\Loja\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "Loja\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Loja\\Loja\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "Loja\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T15:00:52.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoriasController.cs",
+              "DocumentMoniker": "C:\\Loja\\Loja\\Controllers\\CategoriasController.cs",
+              "RelativeDocumentMoniker": "Loja\\Controllers\\CategoriasController.cs",
+              "ToolTip": "C:\\Loja\\Loja\\Controllers\\CategoriasController.cs",
+              "RelativeToolTip": "Loja\\Controllers\\CategoriasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T14:58:55.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

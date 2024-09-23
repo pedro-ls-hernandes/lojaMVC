@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Loja.Models.Endereco>
+
+@{
+    ViewData["Title"] = "Endereços";
+}
+
+<h1>Endereços</h1>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">Novo endereço</a>
+</p>
+<table class="table table-striped table-hover">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.logradouro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Numero)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cep)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.logradouro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Numero)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cep)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cliente.Cpf)
+            </td>
+            <td>
+                <a class="btn btn-outline-dark" asp-action="Edit" asp-route-id="@item.EnderecoId">Edit</a> |
+                <a class="btn btn-outline-dark" asp-action="Details" asp-route-id="@item.EnderecoId">Details</a> |
+                <a class="btn btn-outline-dark" asp-action="Delete" asp-route-id="@item.EnderecoId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
